@@ -4,7 +4,7 @@ This sandbox is a demonstration of the [docsify-themeable](https://jhildenbiddle
 
 :movie_camera: Watch our hackathon video below:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/jlmMyeMSMjY/1.jpg)](http://www.youtube.com/watch?v=jlmMyeMSMjY "SilverSwap BUIDL")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/jlmMyeMSMjY/1.jpg)](https://www.youtube.com/watch?v=jlmMyeMSMjY "SilverSwap BUIDL")
 
 ?> You can ignore the `package.json` file in this sandbox. This file is required by codesandbox.io, not [docsify.js](https://docsify.js.org/).
 
