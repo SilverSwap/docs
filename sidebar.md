@@ -1,8 +1,16 @@
-- [About SilverSwap](/)
-- [Get Started](get-started)
+- [SilverSwap Intro](/)
+- [**Get Started**](get-started)
 - **Products**
-- [:grin:Markdown](markdown)
-- [:grin:New](new)
+- [:currency_exchange:Trade](trade)
+- [:moneybag:Earn](earn)
+- **Frequently Asked Questions**
+- [:question:Common Questions](common-questions)
+- **Fundamentals**
+- [:motorway:Roadmap](roadmap)
+- [:bar_chart:Tokenomics](tokenomics)
+- [:hammer_and_wrench:Contracts](contracts)
 - **Links**
-- [Github](https://github.com/silverswap)
-- [Docsify Themeable](https://www.npmjs.com/package/docsify-themeable)
+- [DApp (Placeholder)](https://app.silverswap.org)
+- [Github Repository](https://github.com/SilverSwap)
+- [Audits (Placeholder)](https://github.com/SilverSwap/audits)
+- [Powered by **Docsify**](https://www.npmjs.com/package/docsify-themeable)

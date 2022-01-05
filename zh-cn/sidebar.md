@@ -1,8 +1,7 @@
-- [SilverSwap Intro](/)
-- **Products**
-- [:grin:Markdown](markdown)
-- [:grin:New](new)
+- [SilverSwap Intro](zh-cn/)
+- [:rocket:Markdown](zh-cn/markdown)
 - **Links**
-- [Github](https://github.com/jhildenbiddle/docsify-themeable)
-- [NPM](https://www.npmjs.com/package/docsify-themeable)
-- ![alt text](//source.unsplash.com/daily "Provided by unsplash.com")
+- [DApp (Placeholder)](https://app.silverswap.org)
+- [Github Repository](https://github.com/SilverSwap)
+- [Audits (Placeholder)](https://github.com/SilverSwap/audits)
+- [Powered by **Docsify**](https://www.npmjs.com/package/docsify-themeable)

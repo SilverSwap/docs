@@ -1,12 +1,6 @@
-# SilverSwap (Chinese Language)
+# SilverSwap New
 
-**This is under construction. In the meantime you can see more instructions on how to edit documentation below.**
-
-:movie_camera: Watch our hackathon video below:
-
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/jlmMyeMSMjY/1.jpg)](https://www.youtube.com/watch?v=jlmMyeMSMjY "SilverSwap BUIDL")
-
-[docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/) theme system for [docsify.js](https://docsify.js.org/).
+This sandbox is a demonstration of the [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/) theme system for [docsify.js](https://docsify.js.org/).
 
 ?> You can ignore the `package.json` file in this sandbox. This file is required by codesandbox.io, not [docsify.js](https://docsify.js.org/).
 
@@ -27,9 +21,3 @@ Set the [theme properties](http://localhost:3000/#/customization?id=theme) you w
 Details are available in the [docsify](https://docsify.js.org/#/configuration) and [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/#/options) documentation.
 
 (See comment #4 and #5 in `index.html`)
-
-## Add Plugins
-
-Details are available in the [docsify plugins](https://docsify.js.org/#/plugins) documentation.
-
-(See comment #6 in `index.html`)
